@@ -1,0 +1,2 @@
+# Adapter
+This app represents implementation of an adapter design pattern. The adapter is a structural design pattern, which allows incompatible objects to collaborate. There are two classes with different interfaces in this app. First class returns list of books in XML format, second accepts list of books in json format. The adapter is introduced to solve this issue.
