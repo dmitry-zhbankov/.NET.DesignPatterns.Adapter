@@ -7,7 +7,7 @@ namespace AdapterApp
 {
     public class Library
     {
-        public string getBooksXML()
+        public string GetBooksXML()
         {
             Console.WriteLine("Getting books list in XML format");
 

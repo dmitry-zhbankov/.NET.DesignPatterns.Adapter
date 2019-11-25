@@ -17,7 +17,7 @@ namespace AdapterApp
 
         public string GetBooksJson()
         {
-            string booksListXml = library.getBooksXML();
+            string booksListXml = library.GetBooksXML();
 
             Console.WriteLine("Converting XML books list to Json format");
 
